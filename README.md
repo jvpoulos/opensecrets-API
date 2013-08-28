@@ -12,7 +12,7 @@ Sunlight Foundation:politicalpartytime.org/api/
 [Documentation: http://sunlightlabs.github.io/partytime-docs/]
 
 Files:
-opensecretsapi.R [Stores summary fundraising information for candidates in opensecrets_attributes.csv]
-sunlightapi.R [Stores candidate information in sunlight_candidates.csv]
+opensecretsapi.R [Stores summary fundraising information (by FEC cycle) for candidates in opensecrets_attributes.csv]
+sunlightapi.R [Stores 2012 candidate information in sunlight_candidates.csv]
 
 Notes: Opensecrets and Sunlight require API keys. Sunlight maintains a daily call limit of 200. 
