@@ -8,7 +8,7 @@ library(RCurl)
 library(rjson)
 
 #set directory
-setwd(".../politicalAPI") #change to your working directory
+setwd(".../opensecrets-API") #change to your working directory
 
 # Initialize a data frame
 hdwd <- data.frame()
