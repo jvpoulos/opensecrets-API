@@ -1,4 +1,4 @@
-opensecrets_API
+opensecrets-API
 ============
 
 Overview:
