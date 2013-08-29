@@ -1,4 +1,4 @@
-politicalAPI
+opensecrets_API
 ============
 
 Overview:
